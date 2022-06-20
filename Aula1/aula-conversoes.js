@@ -5,6 +5,7 @@
 const numero = 456;
 const numeroString = Number("456a");
 
+//COMANDOS 
 //Number()
 //String()
 
